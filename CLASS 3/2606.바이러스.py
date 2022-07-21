@@ -14,8 +14,6 @@ for _ in range(M):
   arr[a].append(b)
   arr[b].append(a)
 
-print(arr)
-
 res = [0 for _ in range(N+1)]
 
 
