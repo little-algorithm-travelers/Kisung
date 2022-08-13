@@ -3,7 +3,7 @@ arr = list(map(int,input().split()))
 
 arr.sort()
 
-print(arr)
+
 
 s = 0
 
