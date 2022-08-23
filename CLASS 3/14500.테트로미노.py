@@ -42,3 +42,4 @@ for i in range(N):
 
 print(ans)
 
+# https://cijbest.tistory.com/87
